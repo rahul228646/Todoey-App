@@ -8,7 +8,7 @@ App Uses Chameleon Library to Generate FaltUIColors with Contrasting Font color
 ## Create Catogrories for ToDo Tasks
 </br>
 
-![category](https://user-images.githubusercontent.com/56363090/194092092-6f97bd56-2afd-4b8c-bac6-46bc33ed3cc1.gif)
+![category](https://user-images.githubusercontent.com/56363090/194095564-20d2c675-60c1-4546-b185-3b4727f4d7f2.gif)
 
 </br>
 
@@ -16,7 +16,7 @@ App Uses Chameleon Library to Generate FaltUIColors with Contrasting Font color
 
 </br>
 
-![addItems](https://user-images.githubusercontent.com/56363090/194090937-45c12c50-25a0-4239-a3c8-643aad2a161f.gif)
+![addItems](https://user-images.githubusercontent.com/56363090/194095961-0d5d6889-7847-405a-9682-6d650fffe0b2.gif)
 
 </br>
 
@@ -24,7 +24,7 @@ App Uses Chameleon Library to Generate FaltUIColors with Contrasting Font color
 
 </br>
 
-![searching](https://user-images.githubusercontent.com/56363090/194091823-013a3066-adee-463e-ad6d-e62aa93966a4.gif)
+![searching](https://user-images.githubusercontent.com/56363090/194095393-96df8026-ac9a-4491-afb7-059756480219.gif)
 
 </br>
 
@@ -32,5 +32,7 @@ App Uses Chameleon Library to Generate FaltUIColors with Contrasting Font color
 
 </br>
 
-![check and delete](https://user-images.githubusercontent.com/56363090/194091956-8c3b5654-e2e3-42d0-ba4e-fd2bf29a4890.gif)
+![check and delete](https://user-images.githubusercontent.com/56363090/194095722-297a8fff-df5f-49ac-8b5f-de78e30f769e.gif)
+
+
 
